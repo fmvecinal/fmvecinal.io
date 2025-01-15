@@ -1,6 +1,0 @@
-<head>
-
- <body>
-<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script><script src="https://radioshdstreaming.com/play/player_2/4/js/player4.js"></script><div id="mexiserver" style="width:410px; height:445px;"></div><script> $("#mexiserver").lunaradio({ streamurl: "http://127.0.0.1:8000/fmvecinal.com", radioname: "FMVECINAL", coverimage: "https://static.wixstatic.com/media/6da0b4_e1c1f4070bf142928b0a236334d5c438.jpg/v1/fill/w_532,h_537,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/6da0b4_e1c1f4070bf142928b0a236334d5c438.jpg", onlycoverimage: false, userinterface: "big", backgroundcolor: "#0e1015", fontcolor: "#ffffff", hightlightcolor: "#e7433c", fontname: "Saira Condensed", googlefont: "Saira+Condensed:wght@100", fontratio: "0.4", scroll: "true", coverstyle: "animated", usevisualizer: "real", visualizertype: "5", streamtype: "shoutcast2", shoutcastpath: "/stream", shoutcastid: "1", metadatainterval: "5000", volume: "100", usestreamcorsproxy: "true", }); </script>
- </body>
-</head>
